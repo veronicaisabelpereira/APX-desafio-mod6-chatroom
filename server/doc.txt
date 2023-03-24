@@ -1,0 +1,9 @@
+PROCESS
+
+El objeto process es una variable global disponible en NodeJS 
+que nos ofrece diversas informaciones 
+y utilidades acerca del proceso que está ejecutando un script Node. 
+Contiene diversos métodos, eventos y propiedades 
+que nos sirven no solo para obtener datos del proceso actual, 
+sino también para controlarlo.
+.
