@@ -56,7 +56,7 @@ export class InitBievenidos extends HTMLElement {
          <div class="header"></div>
          <div class="contenedor">
          <form class="box form"  >
-         <custom-title class="title" title="Bienvenid@s"></custom-title>
+         <custom-title class="title" title="Bienvenidxs"></custom-title>
                   <div>
                      <label class="label" for="email">Email</label>
                      <input class="input is-normal is-rounded" type="email" id="email" name="email" placeholder="Ingrese su Email:">
@@ -99,7 +99,7 @@ export class InitBievenidos extends HTMLElement {
             box-sizing:border-box;
          }
          .header{
-            background-color:#3488ce;
+            background-color:white;
             height:8vh;
          }
          .contenedor{
